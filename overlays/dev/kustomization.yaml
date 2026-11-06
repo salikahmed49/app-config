@@ -10,4 +10,4 @@ labels:
 images:
 - name: us-central1-docker.pkg.dev/google-samples/microservices-demo/frontend
   newName: ghcr.io/salikahmed49/frontend
-  newTag: f98791f
+  newTag: 59a3d58
